@@ -14,7 +14,7 @@ To run the proxy
 java Proxy <PORTNUM>
 ```
 
-where <\PORTNUM\> is the port number of which you want the proxy to listen for incoming connections from clients.
+where <PORTNUM\> is the port number of which you want the proxy to listen for incoming connections from clients.
 To use the proxy server with browser and proxy on separate computers, you will need the IP address on which your proxy server is running. In this case, while running the proxy, you will have to replace the “localhost” with the IP address of the computer where the proxy server is running. Also note the port number used to configure your proxy settings on the machine.
 
 *Congratulations! Your HTTP requests made will now have the specified modifications.*
